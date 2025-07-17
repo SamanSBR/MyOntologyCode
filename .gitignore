@@ -1,3 +1,13 @@
+# === C# / .NET ===
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.userprefs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
