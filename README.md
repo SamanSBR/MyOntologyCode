@@ -1,14 +1,26 @@
 # MyOntologyCode
-    MyOntologyCode Is A Conceptual Manifesto 
-    MyOntologyCode(MOC): A Simple Idea  
-	A language-based framework for expressing philosophical views through code and OOP.  
-Created by SamanSbr, Licensed under MIT.
+	A conceptual open-source project to explore how the world — or our understanding of it — can be modeled using Object-Oriented Programming.
+	
+	This is not a productivity tool. It's a philosophical framework.  
+	We simulate not reality, but our ways of thinking about reality.
+	
+	Let there be classes.  
+	Let there be abstraction.  
+	Let there be a constructor for awe.
+ 
 
 ## What is MyOntologyCode?
 
     MOC is an open-source tool that lets you define philosophical concepts and their relations using code(OOP). 
 
     Start with your own ideas, share them  and invite others to contribute their perspectives.
+
+## Core Concepts
+
+- `Zaat` – The abstract root of all beings. Never instantiated. A conceptual essence.
+- `Human` – A composed class with injected `Identity`, `Experience`, and `Emotion`.
+- `Emotion` – Not a value. A behavior.
+- `Experience` – Contextual timeline of the entity's memory.
 
 ## Tips
 
@@ -70,6 +82,9 @@ Created by SamanSbr, Licensed under MIT.
     **Think**: Ask if Zaat, Human, or other ideas make sense to you (OOP).
     **Dream**: Use this to think about the world in your way or a famous philosopher.
     **Change**: Add your own ideas or make new ones.
+## License
+
+MIT — because ideas want to be free.    
 
 
 
