@@ -30,7 +30,7 @@ Start with your own ideas, share them, and invite others to contribute their per
 
 ## Tips
 
-### 🎭 Play, Don’t Win *(اسرار ازل را نه تو دانی و نه من)*
+###  Play, Don’t Win *(اسرار ازل را نه تو دانی و نه من)*
 
 This project is not about winning. It’s about playing, thinking, and wondering.  
 We don’t know if reality is real — or just a game.
@@ -40,7 +40,7 @@ We don’t give answers. We help you ask better questions.
 
 ---
 
-### 🧬 Zaat: The Start of Everything
+###  Zaat: The Start of Everything
 
 **Zaat** means *essence*.  
 It’s the root of all things in MOC, like `Object` in JavaScript or other base classes.
@@ -49,7 +49,7 @@ Everything begins with Zaat and inherits from it.
 
 > This is not about God or religion. It’s about crafting ideas and watching them unfold.
 
-🧠 **A way to think about it**:  
+ **A way to think about it**:  
 - **Zaat** is like **ROM** — unchanging, permanent, beyond immediate memory.  
 - **Existence** is like **RAM** — temporary, occupying memory only while active.
 
@@ -75,7 +75,7 @@ Emotions move and behave. They don’t sit still like numbers.
 
 ---
 
-### 🧠 Code as Thinking
+###  Code as Thinking
 
 Why code?
 
@@ -89,7 +89,7 @@ MOC doesn’t claim to be *right*. It claims to be *intentional*.
 
 ---
 
-### 🫂 You Are Part of It
+###  You Are Part of It
 
 MOC is not a product. It’s a playground for thought.
 
@@ -99,7 +99,7 @@ That’s the point.
 
 ---
 
-### 🌌 Behind the Mystery *(چون پرده بر افتد نه تو مانی و نه من)*
+###  Behind the Mystery *(چون پرده بر افتد نه تو مانی و نه من)*
 
 Maybe we’ll never understand reality.  
 But MOC is our way of thinking, dreaming, and building — anyway.
